@@ -1,0 +1,23 @@
+Warning: Width correction constrained.  The width correction value must be in the range of [0.000001 mm; 0.199999 mm] for the current design rules.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-job.gbrjob'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Cu.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Cu.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Paste.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Paste.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-F_Mask.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-B_Mask.gbr'.
+Plotted to 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\dbzmv\OneDrive\Escritorio\Trabajos\11vo cuatrimestre\Electiva\Prueba kicad\Prueba kicad-job.gbrjob'.
+Info: Done.
+Info: Done.
